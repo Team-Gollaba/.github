@@ -27,8 +27,9 @@
 - Spring Data JPA
 - Mockito
 - JUnit 5
-- Mysql
-- H2
+- MySQL
+- AWS Web Service
+- Docker
 - OAuth 2.0
 - JWT
 
