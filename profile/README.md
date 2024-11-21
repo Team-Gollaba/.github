@@ -34,7 +34,12 @@
 - JWT
 
 ### IOS
-- 
+- Swift
+- SwiftUI
+- Async/Await
+- Alamofire
+- KingFisher
+- OAuth
 
 ## 팀원 소개
 - Moon-Jang - Back End (https://github.com/Moon-Jang)
