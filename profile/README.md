@@ -33,7 +33,11 @@
 - OAuth 2.0
 - JWT
 
+### IOS
+- 
+
 ## 팀원 소개
 - Moon-Jang - Back End (https://github.com/Moon-Jang)
 - Digital-Hamster - Back End (https://github.com/digital-hamster)
 - Johnsnim - Front End (https://github.com/Johnsnim)
+- Kim-kihyeon - IOS (https://github.com/Kim-kihyeon)
